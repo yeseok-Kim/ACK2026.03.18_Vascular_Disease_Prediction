@@ -1,4 +1,5 @@
-# ACK2026.0520~0522_Vascular_Disease_Prediction
+Title : HbA1c Prediction and Influencing Factor Analysis Model Based on Health Survey Data (Excellence Paper Award, ASK 2026)
+Author : Yeseok Kim, Jaehun Seol, Sangjun Lee, Yonghyun Kwon, Junseok Oh, Younggyun kim
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5418762f-45fc-4e98-a6ee-2f95e4c32621" width="49%" />
